@@ -1,7 +1,7 @@
 // +build !goci
 package cairo
 
-// #include <cairo/cairo.h>
+// #include <cairo.h>
 import "C"
 
 import (
